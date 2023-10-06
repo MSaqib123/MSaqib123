@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Software Engineering from Aptech**
 
-- 👨‍💻 All of my projects are available at [https://msaqib123.github.io/BootaPortfolio.github.io/](https://msaqib123.github.io/BootaPortfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://msaqib123.github.io/MyPortFolio/index.html](https://msaqib123.github.io/MyPortFolio/index.html)
 
 - 💬 Ask me about **.Net**
 
 - 📫 How to reach me **m43577535@gmail.com**
 
-- 📄 Know about my experiences [https://msaqib123.github.io/BootaPortfolio.github.io/resume.html](https://msaqib123.github.io/BootaPortfolio.github.io/resume.html)
+- 📄 Know about my experiences [https://msaqib123.github.io/MyPortFolio/resume.html](https://msaqib123.github.io/MyPortFolio/resume.html)
 
 - ⚡ Struggle fact **I am Hard worker. Seek to get Heigher**
 
