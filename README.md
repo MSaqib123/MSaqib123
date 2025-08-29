@@ -1,7 +1,6 @@
-![Net Logo](https://raw.githubusercontent.com/MSaqib123/MSaqib123/main/Net.png)
-
 <h1 align="center">Hi 👋, I'm Muhammad Boota</h1>
 <h3 align="center">A passionate .Net Developer from Pakistan</h3>
+![Net Logo](https://raw.githubusercontent.com/MSaqib123/MSaqib123/main/Net.png)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=msaqib123&label=Profile%20views&color=0e75b6&style=flat" alt="msaqib123" />
@@ -29,6 +28,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+</a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a> 
