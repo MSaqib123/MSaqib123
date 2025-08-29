@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Boota</h1>
 <h3 align="center">A passionate .Net Developer</h3>
 <p align="center">
-  <img src="https://github.com/MSaqib123/MSaqib123/blob/main/Net.png?raw=true" alt="Net Logo" width="120" height="120"/>
+  <img src="https://github.com/MSaqib123/MSaqib123/blob/main/Net.png?raw=true" alt="Net Logo" height="400px" width="100%"/>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=msaqib123&label=Profile%20views&color=0e75b6&style=flat" alt="msaqib123" height="400px" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=msaqib123&label=Profile%20views&color=0e75b6&style=flat" alt="msaqib123" />
 </p>
 
 - 🔭 I’m currently working on <a href="http://ams.evolveppt.com/">WebDeskERP</a>
