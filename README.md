@@ -4,7 +4,7 @@
   <img src="https://github.com/MSaqib123/MSaqib123/blob/main/Net.png?raw=true" alt="Net Logo" width="120" height="120"/>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=msaqib123&label=Profile%20views&color=0e75b6&style=flat" alt="msaqib123" />
+  <img src="https://komarev.com/ghpvc/?username=msaqib123&label=Profile%20views&color=0e75b6&style=flat" alt="msaqib123" height="400px" width="100%"/>
 </p>
 
 - 🔭 I’m currently working on <a href="http://ams.evolveppt.com/">WebDeskERP</a>
