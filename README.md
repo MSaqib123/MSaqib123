@@ -12,7 +12,9 @@
 
 
 - ✅ I have Completed **Software Engineering** from **Aptech Korangi Branch**
-- 🚀 Currently working as a **Freelance .NET Developer** on [**Fiverr**](https://www.fiverr.com/muhammadboot980?public_mode=true)  
+- 🚀 Currently working as a **Freelance .NET Developer** on <a href="https://www.fiverr.com/muhammadboot980?public_mode=true" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Fiverr" width="20" height="20" style="vertical-align:middle; margin-right:4px;"/> **Fiverr**
+  </a>
 - 🧠 Skilled in **.NET Core 8 MVC**, **Entity Framework**, **Dapper**, **SignalR**, **SQL Server**, and **PostgreSQL**  
 - 👨‍💻 All of my projects are available at <a href="https://msaqib123.github.io/MyPortFolio/index.html">My Portfolio</a>
 - 💬 Ask me about **.Net**
