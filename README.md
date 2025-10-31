@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Boota</h1>
-<h3 align="center">A passionate .Net Developer</h3>
+<h3 align="center">💻 Passionate .NET Core Developer | SaaS & ERP Specialist | Freelancer on Fiverr</h3>
+
 <p align="center">
   <img src="https://github.com/MSaqib123/MSaqib123/blob/main/Net.png?raw=true" alt="Net Logo" height="500px" width="100%"/>
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=msaqib123&label=Profile%20views&color=0e75b6&style=flat" alt="msaqib123" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=muhammadboot980&label=Profile%20Views&color=0e75b6&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=muhammadboot980&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
-- ✅ I have Completed **Software Engineering from Aptech** from **Aptech Korangi Branch**
+
+- ✅ I have Completed **Software Engineering** from **Aptech Korangi Branch**
+- 🚀 Currently working as a **Freelance .NET Developer** on [**Fiverr**](https://www.fiverr.com/muhammadboot980?public_mode=true)  
+- 🧠 Skilled in **.NET Core 8 MVC**, **Entity Framework**, **Dapper**, **SignalR**, **SQL Server**, and **PostgreSQL**  
 - 👨‍💻 All of my projects are available at <a href="https://msaqib123.github.io/MyPortFolio/index.html">My Portfolio</a>
 - 💬 Ask me about **.Net**
 - 📫 How to reach me **m43577535@gmail.com**
 - 📄 Know about my experiences <a href="https://msaqib123.github.io/MyPortFolio/resume.html">Resume</a>
-- ⚡ Fun Fact **I am a hard worker seeking higher challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
