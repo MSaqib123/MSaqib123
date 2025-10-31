@@ -7,8 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=msaqib123&label=Profile%20views&color=0e75b6&style=flat" alt="msaqib123" />
 </p>
 
-- 🔭 I’m currently working on <a href="http://ams.evolveppt.com/">WebDeskERP</a>
-- 🌱 I’m currently learning **Software Engineering from Aptech**
+- ✅ I have Completed **Software Engineering from Aptech** from **Aptech Korangi Branch**
 - 👨‍💻 All of my projects are available at <a href="https://msaqib123.github.io/MyPortFolio/index.html">My Portfolio</a>
 - 💬 Ask me about **.Net**
 - 📫 How to reach me **m43577535@gmail.com**
