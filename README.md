@@ -11,7 +11,7 @@
 </p>
 
 
-- 🚀 <h3> Currently working as a **Freelance .NET Developer** on [**Fiverr**](https://www.fiverr.com/muhammadboot980?public_mode=true)  </h3>
+<h3>🚀  Currently working as a **Freelance .NET Developer** on [**Fiverr**](https://www.fiverr.com/muhammadboot980?public_mode=true)  </h3>
 - ✅ I have Completed **Software Engineering** from **Aptech Korangi Branch**
 - 🧠 Skilled in **.NET Core 8 MVC**, **Entity Framework**, **Dapper**, **SignalR**, **SQL Server**, and **PostgreSQL**  
 - 👨‍💻 All of my projects are available at <a href="https://msaqib123.github.io/MyPortFolio/index.html">My Portfolio</a>
