@@ -16,7 +16,7 @@
 - 🧠 Skilled in **.NET Core 8 MVC**, **Entity Framework**, **Dapper**, **SignalR**, **SQL Server**, and **PostgreSQL**  
 - 👨‍💻 All of my projects are available at <a href="https://msaqib123.github.io/MyPortFolio/index.html">My Portfolio</a>
 - 💬 Ask me about **.Net**
-- 📫 How to reach me **m43577535@gmail.com**
+- 📫 How to reach me **muhammadbootasaqib786@gmail.com**
 - 📄 Know about my experiences <a href="https://msaqib123.github.io/MyPortFolio/resume.html">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
