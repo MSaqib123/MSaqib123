@@ -63,14 +63,10 @@
 </p>
 
 <!-- Top Languages Card (Compact Layout) -->
-<!--<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaqib123&show_icons=true&locale=en&layout=compact&theme=dark" alt="msaqib123" />
-</p>-->
-<!-- Top Languages Card (Custom Languages Only) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaqib123&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=7&include_all_commits=true&hide=html,css,scss,java,php,ruby,go,rust,c,c%2B%2B&only=javascript,csharp,typescript,python,dart,kotlin,sql" alt="msaqib123" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaqib123&show_icons=true&locale=en&layout=compact&theme=dark" alt="msaqib123" />
 </p>
-
+<!-- Top Languages Card (Custom Languages Only) -->
 
 <!-- GitHub Stats Card (Dark Theme for Pro Look) -->
 <p>&nbsp;
