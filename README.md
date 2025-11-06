@@ -61,11 +61,12 @@
   </a>
 </p>
 
-<!-- Top Languages Card (Compact Layout) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaqib123&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=7&include_all_commits=true&hide=html,css,scss,java,php,ruby,go,rust,c,c%2B%2B&only=javascript,csharp,typescript,python,dart,kotlin,sql" alt="msaqib123" />
-  
-<!-- GitHub Stats Card (Dark Theme for Pro Look) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaqib123&show_icons=true&locale=en&theme=dark" alt="msaqib123" />
+
+<!-- Top Languages + Stats in One Line (Working!) -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaqib123&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=7&include_all_commits=true&hide=html,css,scss,java,php,ruby,go,rust,c,c%2B%2B&only=javascript,csharp,typescript,python,dart,kotlin,sql" alt="Top Languages" width="395" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msaqib123&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="395" />
+</p>
 
 
 <!-- Streak Stats -->
