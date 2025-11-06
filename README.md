@@ -20,11 +20,10 @@
 - 📄 Know about my experiences <a href="https://msaqib123.github.io/MyPortFolio/resume.html">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
   <a href="https://www.linkedin.com/in/muhammad-boota-64235217a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,22 +62,16 @@
 </p>
 
 <!-- Top Languages Card (Compact Layout) -->
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaqib123&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=7&include_all_commits=true&hide=html,css,scss,java,php,ruby,go,rust,c,c%2B%2B&only=javascript,csharp,typescript,python,dart,kotlin,sql" alt="msaqib123" />
-</p>
-
-
-
+  
 <!-- GitHub Stats Card (Dark Theme for Pro Look) -->
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=msaqib123&show_icons=true&locale=en&theme=dark" alt="msaqib123" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaqib123&show_icons=true&locale=en&theme=dark" alt="msaqib123" />
+
 
 <!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msaqib123&theme=dark" alt="msaqib123" />
 </p>
-
 <!-- Pro Addition: Pinned Repos or Contributions Graph (Optional - Add if you have multiple repos) -->
 <h3 align="left">📊 GitHub Insights</h3>
 <p align="left">
