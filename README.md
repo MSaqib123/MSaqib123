@@ -63,9 +63,10 @@
 </p>
 
 <!-- Top Languages Card (Compact Layout) -->
-<p align="left">
+<!--<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaqib123&show_icons=true&locale=en&layout=compact&theme=dark" alt="msaqib123" />
-</p>
+</p>-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaqib123&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&hide=html,css,scss" alt="msaqib123" />
 
 <!-- GitHub Stats Card (Dark Theme for Pro Look) -->
 <p>&nbsp;
